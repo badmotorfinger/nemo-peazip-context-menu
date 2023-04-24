@@ -11,7 +11,9 @@ For this to work, you'll need to install peazip
 Then copy the `nemo_action` files to `$HOME/.local/share/nemo/actions` and then enjoy the following context menus.
 
 ![Screenshot1]
+
 ![Screenshot2]
 
 [Screenshot1]: https://raw.githubusercontent.com/badmotorfinger/linux-mint-7zip-esk/master/sreenshot1.png
+
 [Screenshot2]: https://raw.githubusercontent.com/badmotorfinger/linux-mint-7zip-esk/master/sreenshot2.png
