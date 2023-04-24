@@ -1,0 +1,11 @@
+[Nemo Action]
+Active=true
+Name=Add to archive
+Comment=Add files and folders to archive with PeaZip
+Exec=peazip -add2archive %F
+Icon-Name=peazip_add
+Selection=any
+Extensions=any
+EscapeSpaces=true
+Dependencies=peazip
+
