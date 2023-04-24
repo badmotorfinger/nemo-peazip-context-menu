@@ -16,4 +16,4 @@ Then copy the `nemo_action` files to `$HOME/.local/share/nemo/actions` and then 
 
 [Screenshot1]: https://raw.githubusercontent.com/badmotorfinger/linux-mint-7zip-esk/master/sreenshot1.png
 
-[Screenshot2]: https://raw.githubusercontent.com/badmotorfinger/linux-mint-7zip-esk/master/sreenshot2.png
+[Screenshot2]: https://raw.githubusercontent.com/badmotorfinger/linux-mint-7zip-esk/master/screenshot2.png
